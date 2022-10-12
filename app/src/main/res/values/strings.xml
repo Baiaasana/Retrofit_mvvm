@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APIChat</string>
+    <string name="chat">Chat</string>
+    <string name="first">first</string>
+    <string name="last">last</string>
+    <string name="time">2:40 PM</string>
+</resources>
