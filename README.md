@@ -9,7 +9,6 @@
 - ViewBinding
 - RecyclerView
 - Navigation Component
-- Bottom Navigation View
 - MVVM
 - Response Handler
 
